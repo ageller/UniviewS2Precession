@@ -15,5 +15,5 @@ Thumbs.db
 __pycache__
 *.pyc
 
-*.csv
-*.raw
+#*.csv
+#*.raw
